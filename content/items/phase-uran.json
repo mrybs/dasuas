@@ -1,0 +1,12 @@
+{
+    "type": "material",
+    "name": "Phase uran",
+    "description": "Radioactive alloy",
+    "hardness": 4,
+    "cost": 2.0,
+    "color": "aaff33",
+    "tier": 2,
+    "alwaysUnlocked": "true",
+    "explosizeness": 1,
+    "radioactivity": 1
+}

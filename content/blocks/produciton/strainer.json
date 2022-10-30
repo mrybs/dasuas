@@ -1,0 +1,35 @@
+{
+    "type": "GenericCrafter",
+    "name": "Strainer",
+    "description": "Sifting water",
+    "health": 350,
+    "size": 3,
+    "requirements": [
+        {"item": "bronze", "amount": 50},
+        {"item": "silicon", "amount": 20},
+        {"item": "graphite", "amount": 20}
+    ],
+    "category": "crafting",
+    "research": "router",
+    "hasPower": "true",
+    "hasItems": "true",
+    "itemCapcity": 20,
+    "flameColor": "ff8877",
+    "outputItem": {"item": "copper", "amount": 1},
+    "outputItem": {"item": "aluminum", "amount": 1},
+    "outputItem": {"item": "uran", "amount": 1},
+    "outputItem": {"item": "lead", "amount": 1},
+    "outputItem": {"item": "sand", "amount": 1},
+    "outputItem": {"item": "scrap", "amount": 1},
+    "craftTime": 30,
+    "consumes": {
+        "power": 0.5,
+        "liquids": {
+            "liquids": [
+                {"liquid": "water", "amount": 0.5}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}
