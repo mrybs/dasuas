@@ -1,0 +1,15 @@
+{
+    "type": "Router",
+    "name": "Phase uran router",
+    "description": "The speediest and the more proctected router",
+    "requirements": [
+        {"item": "titanium", "amount": 15},
+        {"item": "plastanium", "amount": 5},
+        {"item": "phase-uran", "amount": 5}
+    ],
+    "category": "distribution",
+    "speed": 0.75,
+    "health": 1250,
+    "size": 1,
+    "research": "titanium-conveyor"
+}

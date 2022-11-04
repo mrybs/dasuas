@@ -17,6 +17,7 @@
     "craftTime": 15000,
     "itemDuration": 60,
     "hasLiquids": true,
+    "fuelItem": "enriched-uran",
     "consumes": {
         "items": [
             "enriched-uran/5"

@@ -1,0 +1,12 @@
+{
+    "type": "Wall",
+    "name": "Phase uran wall",
+    "description": "Phase uran wall",
+    "health": 3500,
+    "size": 1,
+    "requirements": [
+        {"item": "phase-uran", "amount": 6}
+    ],
+    "category": "defense",
+    "research": "router"
+}

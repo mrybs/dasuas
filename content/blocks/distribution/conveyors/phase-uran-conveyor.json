@@ -1,0 +1,16 @@
+{
+    "type": "Conveyor",
+    "name": "Phase uran conveyor",
+    "description": "The speediest and the more proctected non-stack conveyor",
+    "requirements": [
+        {"item": "titanium", "amount": 7},
+        {"item": "copper", "amount": 10},
+        {"item": "plastanium", "amount": 1},
+        {"item": "phase-uran", "amount": 2}
+    ],
+    "category": "distribution",
+    "speed": 0.175,
+    "health": 1000,
+    "size": 1,
+    "research": "titanium-conveyor"
+}
