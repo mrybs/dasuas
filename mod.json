@@ -6,5 +6,7 @@
     "description": "Dausas Project mod",
     "version": 0.1,
     "minGameVersion": 140,
-    "hidden": false
+    "hidden": false,
+    "java": true,
+    "main": "dasuas.dasuas"
 }
