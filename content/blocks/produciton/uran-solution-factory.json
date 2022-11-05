@@ -24,8 +24,8 @@
         "power": 1,
         "items": {
             "items": [
-                {"item": "uran", "amount": 0.5}
-            ],
+                {"item": "uran", "amount": 1}
+            ]
         },
         "liquids": {
             "liquids": [
