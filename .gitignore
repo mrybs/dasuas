@@ -1,4 +1,4 @@
-/.gradle/
+/gradle/
 /.settings/
 /.idea/
 /.vscode/
@@ -10,5 +10,5 @@
 .classpath
 *.log
 out/
-dasuas
+dasuasmod
 build
