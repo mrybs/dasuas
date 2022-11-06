@@ -5,10 +5,10 @@ plugins{
 ext{
     sdkRoot = System.getenv("ANDROID_HOME")
     sdkVersion = '30'
-    artifactFilename = "dasuas.jar"
+    artifactFilename = "BetaMindy.jar"
 }
 
-group "mrybs"
+group "sk7725"
 
 sourceSets.main{
     java.srcDir("src/")
@@ -79,7 +79,7 @@ task buildDex dependsOn "build", "dexify"
 task buildMove(dependsOn: build){
     doLast{
         copy{
-            from "build/libs/raw-dasuas.jar"
+            from "build/libs/raw-BetaMindy.jar"
             into System.getenv("destination")
         }
     }
