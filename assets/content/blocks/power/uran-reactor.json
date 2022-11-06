@@ -1,0 +1,37 @@
+{
+    "type": "NuclearReactor",
+    "name": "Uranium reactor",
+    "description": "The most powerful nuclear reactor. Blows as a nuke, if there is no cryofluid",
+    "explosionDamage": 15000,
+    "explosionRadius": 80,
+    "size": 7,
+    "requirements": [
+        {"item": "aluminium", "amount": 750},
+        {"item": "phase-uran", "amount": 150},
+        {"item": "surge-alloy", "amount": 200},
+        {"item": "plastanium", "amount": 500},
+        {"item": "titanium", "amount": 1000},
+        {"item": "lead", "amount": 500}
+    ],
+    "powerProduction": 300,
+    "craftTime": 15000,
+    "itemDuration": 60,
+    "hasLiquids": true,
+    "fuelItem": "enriched-uran",
+    "consumes": {
+        "items": [
+            "enriched-uran/5"
+        ],
+        "liquids": [
+            "cryofluid/1"
+        ]
+    },
+    "ambientSound": "hum",
+    "ambientSoundVolume": 0.35,
+    "lightColor": "F0D4D9FF",
+    "heating": 0.02,
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5,
+    "category": "power",
+    "research": "router"
+}

@@ -1,0 +1,38 @@
+{
+    "type": "GenericCrafter",
+    "name": "Uranium solution factory",
+    "description": "Makes uranium solution from uran and cryofluid",
+    "health": 350,
+    "size": 3,
+    "requirements": [
+        {"item": "aluminium", "amount": 150},
+        {"item": "silicon", "amount": 100},
+        {"item": "plastanium", "amount": 50},
+        {"item": "surge-alloy", "amount": 5},
+        {"item": "uran", "amount": 10}
+    ],
+    "category": "crafting",
+    "research": "router",
+    "hasPower": "true",
+    "hasItems": "true",
+    "hasLiquid": "true",
+    "itemCapcity": 20,
+    "flameColor": "ff8877",
+    "outputLiquid": {"liquid": "uran-solution", "amount": 10},
+    "craftTime": 30,
+    "consumes": {
+        "power": 1,
+        "items": {
+            "items": [
+                {"item": "uran", "amount": 1}
+            ]
+        },
+        "liquids": {
+            "liquids": [
+                {"liquid": "cryofluid", "amount": 1}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}

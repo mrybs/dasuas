@@ -1,0 +1,32 @@
+{
+    "type": "GenericCrafter",
+    "name": "Compressed air factory",
+    "description": "Makes a bottle of compressed air",
+    "health": 350,
+    "size": 2,
+    "requirements": [
+        {"item": "aluminium", "amount": 100},
+        {"item": "titanium", "amount": 50},
+        {"item": "metaglass", "amount": 40},
+        {"item": "surge-alloy", "amount": 10}
+    ],
+    "category": "crafting",
+    "research": "router",
+    "hasPower": "true",
+    "hasItems": "true",
+    "itemCapcity": 20,
+    "flameColor": "ff8877",
+    "outputItem": {"item": "compressed-air", "amount": 3},
+    "craftTime": 30,
+    "consumes": {
+        "power": 1,
+        "items": {
+            "items": [
+                {"item": "metaglass", "amount": 5},
+                {"item": "surge-alloy", "amount": 1}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}
