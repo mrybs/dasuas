@@ -9,7 +9,7 @@ ext{
     artifactFilename = "dasuas.jar"
 }
 
-group "sk7725"
+group "mrybs"
 
 sourceSets.main{
     java.srcDir("src/")
