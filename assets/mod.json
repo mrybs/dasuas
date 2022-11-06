@@ -1,0 +1,12 @@
+{
+    "name": "dasuas",
+    "displayName": "[violet]Dasuas",
+    "subtitle": "Mod of Dasuas Project",
+  "author": "MrYbs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nproneslow - pixelartist\nLpSts325 - pixelartist",
+    "description": "Dausas Project mod",
+    "version": 0.1,
+    "minGameVersion": 140,
+    "hidden": "false",
+    "java": "true",
+    "main": "dasuasmod.dasuas"
+}
