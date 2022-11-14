@@ -7,7 +7,6 @@
     {"item": "aluminium", "amount": 15},
     {"item": "phase-uran", "amount": 5}
   ],
-  "category": "distribution",
   "speed": 0.175,
   "health": 1500,
   "size": 1,
