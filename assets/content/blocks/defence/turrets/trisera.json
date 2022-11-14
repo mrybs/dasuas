@@ -1,7 +1,7 @@
 {
     "type": "ItemTurret",
     "name": "Trisera",
-    "description": "The most powerful turret",
+    "description": "Turret that uses uran",
     "health": 15000,
     "size": 4,
     "bullet": "missileExplosive",
@@ -70,8 +70,11 @@
     },
     "coolantMultiplier": 0.7,
     "requirements": [
-        "uran/50"
+        {"item": "bronze", "amount": 200},
+        {"item": "aluminium", "amount": 300},
+        {"item": "surge-alloy", "amount": 75},
+        {"item": "titanium", "amount": 150}
     ],
     "category": "turret",
-    "research": "stream"
+    "research": "ripple"
 }

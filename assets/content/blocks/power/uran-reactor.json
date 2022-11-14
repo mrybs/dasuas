@@ -33,5 +33,5 @@
     "idleSound": "respawning",
     "idleSoundVolume": 0.5,
     "category": "power",
-    "research": "router"
+    "research": "thorium-reactor"
 }

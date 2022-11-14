@@ -12,7 +12,7 @@
         {"item": "uran", "amount": 10}
     ],
     "category": "crafting",
-    "research": "router",
+    "research": "cryofluidmixer",
     "hasPower": "true",
     "hasItems": "true",
     "hasLiquid": "true",

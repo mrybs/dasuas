@@ -1,0 +1,15 @@
+{
+  "type": "PowerNode",
+  "name": "Phase uran power node",
+  "size": 1,
+  "health": 675,
+  "laserRange": 4,
+  "maxNodes": 60,
+  "requirements": [
+    {"item": "copper", "amount": "7"},
+    {"item": "aluminium", "amount": "5"},
+    {"item": "phase-uran", "amount": "3"}
+  ],
+  "category": "power",
+  "research": "surge-tower"
+}

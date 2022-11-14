@@ -8,5 +8,5 @@
         {"item": "aluminium", "amount": 48}
     ],
     "category": "defense",
-    "research": "router"
+    "research": "wall-aluminium"
 }

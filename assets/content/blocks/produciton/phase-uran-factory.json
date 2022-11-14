@@ -10,7 +10,7 @@
         {"item": "titanium", "amount": 50},
     ],
     "category": "crafting",
-    "research": "router",
+    "research": "phase-weaver",
     "hasPower": "true",
     "hasItems": "true",
     "hasLiquid": "true",
@@ -24,8 +24,8 @@
             "items": [
                 {"item": "enriched-uran", "amount": 2},
                 {"item": "phase-fabric", "amount": 1}
-            ],
-        },
+            ]
+        }
     },
     "idleSound": "respawning",
     "idleSoundVolume": 0.5

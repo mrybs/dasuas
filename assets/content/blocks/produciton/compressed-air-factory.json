@@ -11,7 +11,7 @@
         {"item": "surge-alloy", "amount": 10}
     ],
     "category": "crafting",
-    "research": "router",
+    "research": "alloy-smelter",
     "hasPower": "true",
     "hasItems": "true",
     "itemCapcity": 20,

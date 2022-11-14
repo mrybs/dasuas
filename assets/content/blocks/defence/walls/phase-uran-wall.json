@@ -8,5 +8,5 @@
         {"item": "phase-uran", "amount": 6}
     ],
     "category": "defense",
-    "research": "router"
+    "research": "phase-wall"
 }

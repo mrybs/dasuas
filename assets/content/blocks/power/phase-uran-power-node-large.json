@@ -1,0 +1,15 @@
+{
+  "type": "PowerNode",
+  "name": "Phase uran large power node",
+  "size": 2,
+  "health": 1250,
+  "laserRange": 12,
+  "maxNodes": 475,
+  "requirements": [
+    {"item": "copper", "amount": "25"},
+    {"item": "aluminium", "amount": "17"},
+    {"item": "phase-uran", "amount": "12"}
+  ],
+  "category": "power",
+  "research": "phase-uran-power-node-large"
+}

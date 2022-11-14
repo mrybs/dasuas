@@ -11,7 +11,7 @@
         {"item": "plastanium", "amount": 10}
     ],
     "category": "crafting",
-    "research": "router",
+    "research": "compressed-air-factory",
     "hasPower": "true",
     "hasItems": "true",
     "itemCapcity": 20,

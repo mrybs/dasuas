@@ -10,7 +10,7 @@
         {"item": "graphite", "amount": 20}
     ],
     "category": "crafting",
-    "research": "router",
+    "research": "melter",
     "hasPower": "true",
     "hasItems": "true",
     "itemCapcity": 20,
