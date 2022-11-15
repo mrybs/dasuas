@@ -12,7 +12,7 @@ public class dasuas extends Mod{
         Log.info("Loaded Dasuas.");
 
         //listen for game load event
-        Events.on(ClientLoadEvent.class, e -> {
+        /*Events.on(ClientLoadEvent.class, e -> {
             //show dialog upon startup
             Time.runTask(10f, () -> {
                 BaseDialog dialog = new BaseDialog("Dasuas");
@@ -22,7 +22,7 @@ public class dasuas extends Mod{
                 dialog.cont.button("Закрыть", dialog::hide).size(100f, 50f);
                 dialog.show();
             });
-        });
+        });*/
     }
 
     @Override
