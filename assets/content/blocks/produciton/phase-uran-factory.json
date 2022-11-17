@@ -7,7 +7,7 @@
     "requirements": [
         {"item": "aluminium", "amount": 150},
         {"item": "surge-alloy", "amount": 10},
-        {"item": "titanium", "amount": 50},
+        {"item": "titanium", "amount": 50}
     ],
     "category": "crafting",
     "research": "phase-weaver",

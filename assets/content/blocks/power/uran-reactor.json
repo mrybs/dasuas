@@ -13,7 +13,7 @@
         {"item": "titanium", "amount": 1000},
         {"item": "lead", "amount": 500}
     ],
-    "powerProduction": 300,
+    "powerProduction": 323,
     "craftTime": 15000,
     "itemDuration": 60,
     "hasLiquids": true,

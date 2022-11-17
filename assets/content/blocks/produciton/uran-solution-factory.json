@@ -18,8 +18,8 @@
     "hasLiquid": "true",
     "itemCapcity": 20,
     "flameColor": "ff8877",
-    "outputLiquid": {"liquid": "uran-solution", "amount": 10},
-    "craftTime": 30,
+    "outputLiquid": {"liquid": "uran-solution", "amount": 5},
+    "craftTime": 15,
     "consumes": {
         "power": 1,
         "items": {

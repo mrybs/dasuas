@@ -15,18 +15,33 @@
     "hasItems": "true",
     "itemCapcity": 20,
     "flameColor": "ff8877",
-    "outputItem": {"item": "copper", "amount": 1},
-    "outputItem": {"item": "aluminum", "amount": 1},
-    "outputItem": {"item": "uran", "amount": 1},
-    "outputItem": {"item": "lead", "amount": 1},
-    "outputItem": {"item": "sand", "amount": 1},
-    "outputItem": {"item": "scrap", "amount": 1},
+    "outputItems": [{
+            "item": "copper",
+            "amount": 1
+        },
+        {
+            "item": "aluminum",
+            "amount": 1
+        }, {
+            "item": "uran",
+            "amount": 1
+        }, {
+            "item": "lead",
+            "amount": 1
+        }, {
+            "item": "sand",
+            "amount": 1
+        }, {
+            "item": "scrap",
+            "amount": 1
+        }
+    ],
     "craftTime": 30,
     "consumes": {
         "power": 0.5,
         "liquids": {
             "liquids": [
-                {"liquid": "water", "amount": 0.5}
+                {"liquid": "water", "amount": 0.2}
             ]
         }
     },
