@@ -16,6 +16,7 @@
     "itemCapcity": 20,
     "flameColor": "ff8877",
     "results": [
+        {"item": "scrap", "amount": 8},
         {"item": "copper", "amount": 6},
         {"item": "silicon", "amount": 3},
         {"item": "aluminium", "amount": 4},

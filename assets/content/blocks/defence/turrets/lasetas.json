@@ -1,5 +1,5 @@
 {
-  "type": "LaserTurret",
+  "type": "PowerTurret",
   "name": "Lasetas",
   "health": "1000",
   "size": "1",
@@ -21,7 +21,7 @@
     "type": "LaserBulletType",
     "damage": 75,
     "lightningLength": 25,
-    "knockback": 3.5,
+    "knockback": 0.5,
     "collidesAir": true,
     "hitEffect": "hitLancer",
     "lifetime": 3,
