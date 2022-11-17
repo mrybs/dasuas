@@ -1,6 +1,6 @@
 {
   "type": "PowerNode",
-  "name": "Phase uran huge power node",
+  "name": "Phase uranium huge power node",
   "size": 2,
   "health": 1580,
   "laserRange": 25,
@@ -13,5 +13,5 @@
     {"item": "phase-uran", "amount": "45"}
   ],
   "category": "power",
-  "research": "phase-uran-power-node"
+  "research": "phase-uranium-power-node"
 }

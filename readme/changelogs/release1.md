@@ -1,0 +1,18 @@
+# 1.0 Release changelog
+- Added aluminium, bronze, uran(uran, enriched uran, phase uran)
+- Added two ores: aluminium and uranium
+- Added uranium solution
+- Added aluminium walls (1x1, 2x2)
+- Added phase uranium walls (1x1, 2x2, 3x3, 4x4)
+- Added three turrets: lasetas, quase and trisera
+- Added phase uranium conveyor, junction and router
+- Added surge drill
+- Added huge solar panel
+- Added three phase uranium power nodes: standard, large and huge
+- Added uranium reactor
+- Added bronze foundry
+- Added strainer
+- Added compressed air factory
+- Added uran enricher and phase uran factory
+- Added uranium solution factory
+- Added three maps: archipelagos, canyon and salt desert

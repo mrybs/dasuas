@@ -1,7 +1,7 @@
 {
     "type": "Wall",
-    "name": "Phase uran wall",
-    "description": "Phase uran wall",
+    "name": "Phase uranium wall",
+    "description": "Phase uranium wall",
     "health": 3500,
     "size": 1,
     "requirements": [

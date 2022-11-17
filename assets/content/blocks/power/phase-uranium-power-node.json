@@ -1,6 +1,6 @@
 {
   "type": "PowerNode",
-  "name": "Phase uran power node",
+  "name": "Phase uranium power node",
   "size": 1,
   "health": 675,
   "laserRange": 4,

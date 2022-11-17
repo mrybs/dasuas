@@ -1,6 +1,6 @@
 {
     "type": "Conveyor",
-    "name": "Phase uran conveyor",
+    "name": "Phase uranium conveyor",
     "description": "The speediest and the more proctected non-stack conveyor",
     "requirements": [
         {"item": "titanium", "amount": 7},

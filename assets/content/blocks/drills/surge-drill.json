@@ -10,7 +10,7 @@
         "liquids": [
             {"liquid": "cryofluid",
             "amount": 0.25},
-            {"liquid": "uran-solution",
+            {"liquid": "uranium-solution",
                 "amount": 0.25}
         ]
     },
