@@ -5,7 +5,7 @@
 <h2><b>Mod for Mindustry that adds new uranium technologies</b></h2>
 <h3><b>Links</b></h3>
 <h4><b>Changelogs</b></h4>
-<h5><b><a href="https://github.com/mrybs/dasuas/raw/master/readme/changelogs/release1.md">New in release 1.0</a></b></h5>
+<h5><b><a href="https://github.com/mrybs/dasuas/blob/master/readme/changelogs/release1.md">New in release 1.0</a></b></h5>
 <h4><b>Social networks</b></h4>
 <h5><b><a href="https://vk.com/dasuas">VK</a></b></h5>
 <h5><b><a href="https://t.me/dasuasproject">Telegram chat</a></b></h5>
