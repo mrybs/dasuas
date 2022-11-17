@@ -29,7 +29,7 @@
         "power": 2,
         "liquids": {
             "liquids": [
-                {"liquid": "water", "amount": 2}
+                {"liquid": "water", "amount": 0.1}
             ]
         }
     },
