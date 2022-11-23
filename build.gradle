@@ -3,8 +3,8 @@ plugins{
 }
 
 ext{
-    //sdkRoot = System.getenv("ANDROID_HOME")
-    sdkRoot = "/home/mrybs/Android/Sdk"
+    sdkRoot = System.getenv("ANDROID_HOME")
+    //sdkRoot = "/home/mrybs/Android/Sdk"
     sdkVersion = '32'
     artifactFilename = "dasuas.jar"
 }
@@ -23,9 +23,9 @@ repositories{
 
 dependencies{
     annotationProcessor 'com.github.Anuken:jabel:0.8.0'
-    compileOnly "com.github.Anuken.Mindustry:core:v140.3"
-    compileOnly "com.github.Anuken.Arc:flabel:v140.3"
-    compileOnly "com.github.Anuken.Arc:arc-core:v140.3"
+    compileOnly "com.github.Anuken.Mindustry:core:v140.4"
+    compileOnly "com.github.Anuken.Arc:flabel:v140.4"
+    compileOnly "com.github.Anuken.Arc:arc-core:v140.4"
 }
 
 jar.archiveFileName.set("raw-$artifactFilename")
