@@ -2,9 +2,9 @@
     "name": "dasuas",
     "displayName": "[royal]Dasuas",
     "subtitle": "Mod of Dasuas Project",
-    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nproneslow - pixelartist\nfist - pixelartist",
+  "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nLpSts325 - pixelartist\nproneslow - pixelartist",
     "description": "Dausas Project mod",
-    "version": 0.4,
+    "version": 1.0,
     "minGameVersion": 140,
     "hidden": "false",
 }
