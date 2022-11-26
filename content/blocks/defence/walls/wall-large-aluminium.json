@@ -1,0 +1,12 @@
+{
+    "type": "Wall",
+    "name": "Aluminium large wall",
+    "description": "Aluminium large wall",
+    "health": 2500,
+    "size": 2,
+    "requirements": [
+        {"item": "aluminium", "amount": 48}
+    ],
+    "category": "defense",
+    "research": "wall-aluminium"
+}

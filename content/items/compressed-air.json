@@ -1,0 +1,12 @@
+{
+    "type": "material",
+    "name": "Compressed Air",
+    "description": "Compressed air for getting electricity and as a part of the turret projectile",
+    "hardness": 8,
+    "cost": 2.0,
+    "color": "cccccc",
+    "tier": 2,
+    "alwaysUnlocked": "true",
+    "explosizeness": 0.3,
+    "radioactivity": 0
+}

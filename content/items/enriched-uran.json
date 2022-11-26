@@ -1,0 +1,12 @@
+{
+    "type": "material",
+    "name": "Enriched uran",
+    "description": "More radioactive than common uran",
+    "hardness": 4,
+    "cost": 2.0,
+    "color": "ffff55",
+    "tier": 2,
+    "alwaysUnlocked": "true",
+    "explosizeness": 0.8,
+    "radioactivity": 1
+}

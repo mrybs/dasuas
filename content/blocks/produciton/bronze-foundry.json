@@ -1,0 +1,31 @@
+{
+    "type": "GenericCrafter",
+    "name": "Bronze foundry",
+    "description": "Makes bronze from copper and lead",
+    "health": 350,
+    "size": 2,
+    "requirements": [
+        {"item": "copper", "amount": 50},
+        {"item": "silicon", "amount": 20},
+        {"item": "graphite", "amount": 20}
+    ],
+    "category": "crafting",
+    "research": "melter",
+    "hasPower": "true",
+    "hasItems": "true",
+    "itemCapcity": 20,
+    "flameColor": "ff8877",
+    "outputItem": {"item": "bronze", "amount": 2},
+    "craftTime": 35,
+    "consumes": {
+        "power": 0.5,
+        "items": {
+            "items": [
+                {"item": "copper", "amount": 1},
+                {"item": "lead", "amount": 1}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}

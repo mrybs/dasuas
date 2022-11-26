@@ -1,0 +1,32 @@
+{
+    "type": "GenericCrafter",
+    "name": "Phase uran factory",
+    "description": "Makes phase uran solution",
+    "health": 350,
+    "size": 3,
+    "requirements": [
+        {"item": "aluminium", "amount": 150},
+        {"item": "surge-alloy", "amount": 10},
+        {"item": "titanium", "amount": 50}
+    ],
+    "category": "crafting",
+    "research": "phase-weaver",
+    "hasPower": "true",
+    "hasItems": "true",
+    "hasLiquid": "true",
+    "itemCapcity": 20,
+    "flameColor": "ff8877",
+    "outputItem": {"item": "phase-uran", "amount": 3},
+    "craftTime": 60,
+    "consumes": {
+        "power": 10,
+        "items": {
+            "items": [
+                {"item": "enriched-uran", "amount": 2},
+                {"item": "phase-fabric", "amount": 1}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}

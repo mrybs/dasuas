@@ -1,0 +1,12 @@
+{
+    "type": "Wall",
+    "name": "Phase uranium large wall",
+    "description": "Phase uranium large wall",
+    "health": 15000,
+    "size": 2,
+    "requirements": [
+        {"item": "phase-uran", "amount": 24}
+    ],
+    "category": "defense",
+    "research": "phase-uranium-wall"
+}

@@ -1,0 +1,29 @@
+{
+    "type": "GenericCrafter",
+    "name": "Compressed air factory",
+    "description": "Makes a bottle of compressed air",
+    "health": 400,
+    "size": 2,
+    "requirements": [
+        {"item": "aluminium", "amount": 100},
+        {"item": "titanium", "amount": 50},
+    ],
+    "category": "crafting",
+    "research": "alloy-smelter",
+    "hasPower": "true",
+    "hasItems": "true",
+    "itemCapcity": 15,
+    "flameColor": "ff8877",
+    "outputItem": {"item": "compressed-air", "amount": 5},
+    "craftTime": 15,
+    "consumes": {
+        "power": 0.5,
+        "items": {
+            "items": [
+                {"item": "metaglass", "amount": 2}
+            ]
+        }
+    },
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5
+}

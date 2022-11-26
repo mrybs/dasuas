@@ -1,0 +1,45 @@
+{
+  "type": "PowerTurret",
+  "name": "Lasetas",
+  "health": "1000",
+  "size": "1",
+  "reload": 75,
+  "range": 100,
+  "chargeTime": 8,
+  "chargeMaxDelay": 10,
+  "chargeEffects": 7,
+  "recoil": 3,
+  "shootShake": 0.1,
+  "shootEffect": "unitSpawn",
+  "smokeEffect": "shootBigSmoke2",
+  "chargeEffect": "produceSmoke",
+  "chargeBeginEffect": "blastExplosion",
+  "shotDelay": 1000,
+  "hasPower": "true",
+  "powerUse": 10,
+  "shootType": {
+    "type": "LaserBulletType",
+    "damage": 75,
+    "lightningLength": 25,
+    "knockback": 0.5,
+    "collidesAir": true,
+    "hitEffect": "hitLancer",
+    "lifetime": 3,
+    "drawSize": 3
+  },
+  "inaccuracy": 0.1,
+  "rotateSpeed": 100,
+  "requirements": [
+    {"item": "aluminium", "amount": 50},
+    {"item": "lead", "amount": 20},
+    {"item": "copper", "amount": 50},
+    {"item": "bronze", "amount": 50}
+  ],
+  "consumes": {
+    "power": 0.2
+  },
+  "coolantMultiplier": 0.7,
+  "category": "turret",
+  "shootSound": "laser",
+  "research": "lancer"
+}

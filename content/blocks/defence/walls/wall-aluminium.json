@@ -1,0 +1,12 @@
+{
+    "type": "Wall",
+    "name": "Aluminium wall",
+    "description": "Aluminium wall",
+    "health": 500,
+    "size": 1,
+    "requirements": [
+        {"item": "aluminium", "amount": 6}
+    ],
+    "category": "defense",
+    "research": "copper-wall"
+} 

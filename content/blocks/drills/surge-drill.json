@@ -1,0 +1,28 @@
+{
+    "name": "Surge drill",
+    "description": "Powerful dirll that consumes cryofluid, uranium solution and electricity",
+    "type": "Drill",
+    "size": 4,
+    "tier": 7,
+    "drillTime": 10,
+    "consumes": {
+        "power": 1.5,
+        "liquids": [
+            {"liquid": "cryofluid",
+            "amount": 0.25},
+            {"liquid": "uranium-solution",
+                "amount": 0.25}
+        ]
+    },
+    "requirements": [
+        {"item": "aluminium", "amount": 150},
+        {"item": "titanium", "amount": 100},
+        {"item": "bronze", "amount": 150},
+        {"item": "plastanium", "amount": 50},
+        {"item": "surge-alloy", "amount": 50}
+    ],
+    "category": "production",
+    "research": "laser-drill",
+    "health": 1750,
+    "hasPower": "true"
+}
