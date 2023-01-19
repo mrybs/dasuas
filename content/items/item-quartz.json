@@ -1,0 +1,11 @@
+{
+  "type": "material",
+  "name": "Quartz",
+  "hardness": 2,
+  "cost": 2.0,
+  "color": "ffddee",
+  "tier": 2,
+  "alwaysUnlocked": "true",
+  "explosizeness": 0,
+  "radioactivity": 0
+}

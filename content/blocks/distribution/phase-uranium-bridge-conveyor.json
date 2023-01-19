@@ -1,0 +1,14 @@
+{
+  "type": "ItemBridge",
+  "transportTime": 0.5,
+  "range": "5",
+  "requirements": [
+    {"item": "phase-uran", "amount": 5},
+    {"item": "aluminium", "amount": 15},
+    {"item": "lead", "amount": 20},
+    {"item": "titanium", "amount": 15},
+    {"item": "plastanium", "amount": 10},
+    {"item": "copper", "amount": 15}
+  ],
+  "category": "distribution"
+}

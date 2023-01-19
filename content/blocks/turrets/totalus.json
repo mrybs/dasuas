@@ -1,0 +1,37 @@
+{
+    "type": "LiquidTurret",
+    "name": "Totalus",
+    "size": 3,
+    "ammoTypes": {
+        "liquid-mercury": {
+            "type": "LiquidBulletType",
+            "damage": 30,
+            "lifetime": 25,
+            "liquid": "liquid-mercury",
+            "fragBullets": 3,
+            "fragBullet": {
+                "type": "LiquidBulletType",
+                "liquid": "liquid-mercury",
+                "lifetime": 2,
+                "speed": 1,
+                "fragBullets": 2,
+                "damage": 4,
+                "fragBullet": {
+                    "type": "LiquidBulletType",
+                    "liquid": "liquid-mercury",
+                    "lifetime": 1,
+                    "speed": 2,
+                    "damage": 1,
+                }
+            }
+        }
+    },
+    "requirements": [
+      {"item": "titanium", "amount": 45},
+      {"item": "aluminium", "amount": 125},
+      {"item": "copper", "amount": 50},
+      {"item": "item-quartz", "amount": 25}
+    ],
+    "category": "turret",
+    "research": "ripple"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Conveyor",
+    "requirements": [],
+    "category": "distribution",
+    "speed": 10000,
+    "health": 1000,
+    "size": 1,
+    "instantTransfer": true,
+    "buildVisibility": "sandboxOnly"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "Wall",
+  "health": 99999999999,
+  "size": 1,
+  "requirements": [],
+  "category": "defense",
+  "buildVisibility": "sandboxOnly"
+}

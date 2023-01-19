@@ -1,0 +1,17 @@
+{
+  "type": "ForceProjector",
+  "name": "Enriched uranium wall",
+  "description": "-",
+  "health": 750,
+  "size": 2,
+  "hasPower": "false",
+  "hasItems": "false",
+  "hasLiquids": "false",
+  "radius": 17.5,
+  "breakage": 750,
+  "requirements": [
+    {"item": "enriched-uran", "amount": 96}
+  ],
+  "category": "defense",
+  "research": "thorium-wall"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "Drill",
+  "size": 2,
+  "tier": 7,
+  "drillTime": 0.01,
+  "requirements": [],
+  "category": "production",
+  "health": 1750,
+  "buildVisibility": "sandboxOnly"
+}

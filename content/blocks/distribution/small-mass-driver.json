@@ -1,0 +1,15 @@
+{
+    "type": "MassDriver",
+    "range": 50,
+    "rotateSpeed": 2,
+    "translation": 5,
+    "minDistribute": 10,
+    "knockback": 2,
+    "reloadTime": 25,
+    "requirements": [
+        {"item": "titanium", "amount": 5},
+        {"item": "aluminium", "amount": 10},
+        {"item": "copper", "amount": 10}
+    ],
+    "category": "distribution"
+}

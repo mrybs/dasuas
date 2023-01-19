@@ -1,0 +1,6 @@
+{
+  "type": "Conduit",
+  "leakResistance": 1000000,
+  "buildVisibility": "sandboxOnly",
+  "requirements": [],
+}

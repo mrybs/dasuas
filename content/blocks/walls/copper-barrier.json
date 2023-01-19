@@ -1,0 +1,12 @@
+{
+  "type": "Wall",
+  "name": "Copper barrier",
+  "description": "-",
+  "health": 10,
+  "size": 1,
+  "requirements": [
+    {"item": "copper", "amount": 1}
+  ],
+  "category": "defense",
+  "research": "copper-wall"
+}

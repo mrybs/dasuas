@@ -1,0 +1,9 @@
+{
+  "name": "Liquid mercury",
+  "description": "-",
+  "temperature": 0.4,
+  "flammability": 0,
+  "explosiveness": 0,
+  "flameColor": "ffffff",
+  "color": "888888"
+}
